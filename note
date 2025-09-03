@@ -1,0 +1,7 @@
+button color 
+ background: linear-gradient(to right, #b479f8, #91b0ff);
+
+
+  box-shadow: 0 0 12px #b479f8aa;
+
+secondary color #b479f8;
