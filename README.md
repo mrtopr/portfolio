@@ -1,20 +1,8 @@
 <div align="center">
-  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" />
+  <img height="150" src="https://img.freepik.com/premium-photo/sticker-boy-coding-computer-anime-s-creative-design-bold-line-cute-kawaii-st_655090-454641.jpg?w=2000" />
 </div>
 
 ###
-
-<div align="center">
-  <a href="https://www.linkedin.com/in/sachinkumar">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo" />
-  </a>
-  <a href="https://www.youtube.com/@sachinkumar">
-    <img src="https://img.shields.io/static/v1?message=YouTube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="youtube logo" />
-  </a>
-  <a href="https://x.com/sachinkumar">
-    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo" />
-  </a>
-</div>
 
 ###
 
